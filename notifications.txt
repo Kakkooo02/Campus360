@@ -1,0 +1,22 @@
+2025-11-22T17:06:15.265845100|Student Ali|Request created: light
+2025-11-22T17:41:59.044303500|Student Ali|Status updated to APPROVED for light
+2025-11-22T19:07:00.278412700|System Admin|Request created: light
+2025-11-22T19:07:16.950605400|System Admin|Your request assigned to null
+2025-11-22T19:07:16.952607|null|New assignment: light
+2025-11-22T19:07:27.179621200|System Admin|Status updated to APPROVED for light
+2025-11-22T19:09:47.095185100|System Admin|Request created: no
+2025-11-22T19:35:36.872539500|System Admin|Your request assigned to Technician Omar
+2025-11-22T19:35:36.873539300|Technician Omar|New assignment: no
+2025-11-22T19:36:22.685735800|System Admin|Status updated to COMPLETED for no
+2025-11-22T19:40:36.781463200|Student Ali|Request created: light
+2025-11-22T19:45:12.865602600|Student Ali|Your request assigned to Technician Ahmed
+2025-11-22T19:45:12.867829500|Technician Ahmed|New assignment: light
+2025-11-22T19:48:19.597339200|Student Ali|Status updated to CANCELLED for light
+2025-11-24T16:58:35.611548400|Ali|Request created: AC not working
+2025-11-24T17:05:35.331429500|Ali|Your request assigned to Ahmed
+2025-11-24T17:05:35.332431500|Ahmed|New assignment: AC not working
+2025-11-28T23:09:10.968246700|Ali|Request created: light not working
+2025-11-28T23:27:35.607061900|Ali|Your request assigned to Omar
+2025-11-28T23:27:35.609076700|Omar|New assignment: light not working
+2025-11-28T23:38:47.103048100|Dr.Ahmed|Request created: ac not working
+2025-11-28T23:44:12.746970400|Ali|Status updated to COMPLETED for light not working

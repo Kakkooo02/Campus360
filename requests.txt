@@ -1,0 +1,7 @@
+adabc054-0390-4db1-8c14-5726d898a2b7|light|Light not working|L001|Student Ali||APPROVED|0|2025-11-22T17:41:59.033975900
+624ac7aa-49dc-4e63-8c02-86e7e2ab4fe4|light|not working|101|System Admin||APPROVED|0|2025-11-22T19:07:27.174768200
+bb83b50f-d17b-4341-bf23-2bff6227ca89|no|no|no|System Admin|Technician Omar|COMPLETED|0|2025-11-22T19:36:22.683204600
+18703886-3d60-4f9a-919f-f770fffd8a6c|light|not working|L001|Student Ali|Technician Ahmed|CANCELLED|0|2025-11-22T19:48:19.595320900
+55ec8f63-9a19-48e3-89c9-59d67d57c343|AC not working|not working|101|Ali|Ahmed|PENDING|0|2025-11-24T16:58:35.609357
+09ea6045-58e5-4f06-b57b-79686af9a7ee|light not working|the light is not turning on|L102|Ali|Omar|COMPLETED|0|2025-11-28T23:44:12.743022600
+68d53c5f-2407-4701-95bd-b7d2183f6109|ac not working|the ac is not turning down|C101|Dr.Ahmed||REOPENED|1|2025-11-28T23:40:09.010764300

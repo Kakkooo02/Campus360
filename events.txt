@@ -1,0 +1,5 @@
+S001;Student Ali;Book discussion;Room A;2025-01-01;10:00 AM;Approved
+S001;Student Ali;literature club;bokk diss;2025-01-01;10:00 AM;ApprovedStudent Ali, STUDENT, uae national, 2025-12-04, 04:00, main, Approved
+S001, Ali, Student, Event, HALL for, 2025-11-26, 10:00, 11:00, Pending Approval
+Ali, STUDENT, Dance, 2025-11-12, 05:59, G building, Approved
+Ali, STUDENT, movie night, 2025-12-12, 22:00, multi purpose hall, Approved

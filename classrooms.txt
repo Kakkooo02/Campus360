@@ -1,0 +1,9 @@
+S001, Student Ali, Student, Classroom, L001, 2025-12-12, 10:00, 12:00, Confirmed
+F001, Dr. Ahmed, Faculty, Classroom, 101, 2025-12-10, 12:00, 01:00, Confirmed
+S001, Ali, Student, Classroom, L102, 2025-11-25, 12:17, 13:17, Confirmed
+S001, Ali, Student, Classroom, CLASSROOM, 2025-11-25, 10:00, 11:00, Confirmed
+S001, Ali, Student, Classroom, CLASSROOM, 2025-11-27, 10:00, 11:00, Confirmed
+S001, Ali, Student, Classroom, 101, 2025-12-23, 04:25, 05:35, Confirmed
+S001, Ali, Student, Classroom, L102, 2025-11-25, 03:45, 04:45, Pending Approval
+F001, Dr.Ahmed, Faculty, Classroom, L102, 2025-11-25, 02:45, 03:40, Pending Approval
+S001, Ali, Student, Classroom, L103, 2025-11-25, 03:45, 04:45, Pending Approval

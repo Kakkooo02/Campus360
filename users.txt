@@ -1,0 +1,6 @@
+A001;Admin;admin@ku.ac.ae;admin123;ADMIN
+S001;Ali;ali@student.ku.ac.ae;12345;STUDENT
+F001;Dr.Ahmed;ahmed@ku.ac.ae;1234;FACULTY
+T001;Omar;tech@ku.ac.ae;tech123;TECHNICIAN
+T002;Ahmed;te@ku.ac.ae;te123;TECHNICIAN
+S002;Suhaira Salman;suhaira@ku.ac.ae;12345;STUDENT
