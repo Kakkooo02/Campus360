@@ -1,0 +1,25 @@
+# Java compiled files
+*.class
+*.jar
+*.war
+*.ear
+
+# Eclipse project files
+.classpath
+.project
+.settings/
+
+# IDE files
+.idea/
+.vscode/
+
+# Python cache and environments
+__pycache__/
+*.pyc
+venv/
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
