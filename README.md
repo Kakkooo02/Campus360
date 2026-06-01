@@ -162,19 +162,15 @@ Through this project, I practiced:
 * Designing maintenance, booking, notification, and event workflows
 * Managing simple data storage using text files and JSON
 * Connecting a Java application with Python-based AI tools
-* Writing and organizing a larger multi-file software project
 
 ## Future Improvements
 
 * Replace text-file storage with a database
 * Improve the user interface design
-* Add password hashing for better security
-* Add unit testing
 * Package the Java application as an executable file
 * Improve error handling and input validation
-* Add more detailed documentation for each module
 * Improve the AI chatbot’s response accuracy and interface
 
 ## Author
 
-Created by [Kakkooo02](https://github.com/Kakkooo02)
+Created by Kakkooo02
