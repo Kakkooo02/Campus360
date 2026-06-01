@@ -149,16 +149,8 @@ OPENAI_API_KEY=your_api_key_here
 streamlit run app.py
 ```
 
-## Screenshots
-
-Screenshots will be added to show the main parts of the system, including:
-
-* Login page
-* Student dashboard
-* Admin dashboard
-* Maintenance request page
-* Booking page
-* AI chatbot page
+## Demo Video
+https://www.youtube.com/watch?v=mHo2CQph5_g
 
 ## What I Learned
 
